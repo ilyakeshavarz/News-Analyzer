@@ -4,7 +4,7 @@
 ![Java](https://img.shields.io/badge/Java-8-orange?logo=openjdk)
 ![Maven](https://img.shields.io/badge/Build-Maven-blue?logo=apachemaven)
 ![JUnit 5](https://img.shields.io/badge/Tests-JUnit%205-brightgreen)
-![License](https://img.shields.io/github/license/ilyakeshavarz/News-Analyzer)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 A Java-based TCP news analyzer that receives news messages from multiple mock feed clients, validates incoming data, filters positive headlines, and periodically reports summary statistics.
 
